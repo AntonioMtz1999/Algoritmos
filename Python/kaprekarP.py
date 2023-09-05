@@ -19,5 +19,3 @@ for k in range(99):
     numR=num
 print("---------------------")
 print("Iteraciones",k+1)
-"""Para el caso de utilizarlo en la consola descomentar el input"""
-"""input()"""
