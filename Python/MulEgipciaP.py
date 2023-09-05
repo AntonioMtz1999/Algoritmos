@@ -33,6 +33,3 @@ while cons > 0:
     
 print("---------------------")
 print("El resultado es:", res)
-
-"""Para el caso de utilizarlo en la consola descomentar el input"""
-"""input()"""
