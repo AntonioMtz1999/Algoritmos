@@ -18,5 +18,3 @@ while num != 2:
     conteo  = int(conteo + 1)
     pass
     
-"""Para el caso de utilizarlo en la consola descomentar el input"""
-"""input()"""
